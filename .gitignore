@@ -1,4 +1,6 @@
 ml_env/
 data/
 runs/
-ssh_key/
+ssh/
+ssh-key
+ssh-key.pub
